@@ -1,7 +1,8 @@
 # The World in One Day — 19 November 2026
 
-[![make.fun](https://img.shields.io/badge/make.fun-news--image--20261119-blue)](https://make.fun/c/news-image-20261119)
-[![license](https://img.shields.io/badge/license-MIT-green)](./LICENSE)
+[![make.fun · news-image-20261119](https://make.fun/badge/news-image-20261119.svg)](https://make.fun/bounty/news-image-20261119?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261119)
+[![rank](https://make.fun/badge/news-image-20261119/edwardlau2028/news-image-20261119/rank.svg)](https://make.fun/bounty/news-image-20261119/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261119)
+[![reward](https://make.fun/badge/news-image-20261119/edwardlau2028/news-image-20261119/reward.svg)](https://make.fun/bounty/news-image-20261119?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261119)
 
 A one-page newspaper front page summing up the world's news of Thursday
 19 November 2026 — eight stories, drawn in code with Python and PIL, on a
